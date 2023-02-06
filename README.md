@@ -14,7 +14,7 @@ I'm currently developing my carrer as software engineer. I'm passionate about fu
 const marcello = {
  name: "MARCELLO TAVARES BARBOSA",
  acknowledgements: "FULLSTACK DEVELOPER / QA / TESTS",
- mainStacks: ["HTML, CSS, JavaScript", "Testing", "JEST", "Cypress", "NodeJS", "TypeScript", "Docker", "React", "MySQL, Sequelize, SOLID, POO"],
+ mainStacks: ["HTML, CSS, JavaScript", "Testing", "JEST", "Cypress", "CI/CD", "NodeJS", "TypeScript", "Docker", "React", "MySQL, Sequelize, SOLID, POO"],
  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "MySQL", 
  "React", "Node"],
  tools: ["Express", "Redux", "ContextAPI", "Docker", "Git" ]

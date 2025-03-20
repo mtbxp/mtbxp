@@ -1,5 +1,5 @@
-<div align="center" fontsize="10">Hi there, I'm Marcello, 32 years old, i have been dealing with technology since i was a kid, and i really love it.</br>
-I'm currently developing my carrer as software engineer. I'm passionate about futuristic and middle age movies/series.</br>
+<div align="center" fontsize="10">Hi there, I'm Marcello, 34 years old, i have been dealing with technology since i was a kid, and i really love it.</br>
+I'm currently developing my carrer as Devops engineer. I'm passionate about futuristic and middle age movies/series.</br>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@ I'm currently developing my carrer as software engineer. I'm passionate about fu
 ```javascript
 const marcello = {
  name: "MARCELLO TAVARES BARBOSA",
- acknowledgements: "FULLSTACK DEVELOPER / QA / TESTS",
+ acknowledgements: "Devops Engineer / SRE / Sysadmin",
  mainStacks: ["HTML, CSS, JavaScript", "Testing", "JEST", "Cypress", "CI/CD", "NodeJS", "TypeScript", "Docker", "React", "MySQL, Sequelize, SOLID, POO"],
  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "MySQL", 
  "React", "Node"],
